@@ -3,3 +3,5 @@
 This repository is part of the thesis of the Master's in Data Science by the University of Barcelona 2019/2020.
 
 In this work, <abstract>...
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)

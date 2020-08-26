@@ -33,4 +33,4 @@ Lastly, all these tasks were put together as a pipeline and uploaded to a server
 
 ## Code
 Disclaimer: The data used for this project is highly sensitive and as part of the confidentiality agreement signed with HP, only minimal amounts of data with no customer details can be taken out of the company nor be externally used. As a result, no data exploration can be publicly shown.
-Due to this, only the output file with the predictions and explainability with no customer data can be exposed in this public domain.
+Due to this, only the output file with the predictions and explainability with no customer data can be exposed in this public domain. The other files have been left just with one or two lines to get the grasp of the fields in the dataset.

@@ -21,6 +21,8 @@ The pipeline consist of the following processes:
 * **Prediction:** In this step, the score for each lead was output along with the explainability of the most important attribute for the decision with the LIME package.
 * **PowerBi:** The file resulting from the prediction was retrieved from the server and put to a PowerBi so the whole organization can use the data from the scarping, scoring, and explainability algorithms.
 
+Disclaimer: The data used for this project is highly sensitive and as part of the confidentiality agreement signed with HP, only minimal amounts of data with no customer details can be taken out of the company nor be externally used. As a result, no data exploration can be publicly shown.
+
 ## Abstract
 Many organizations are still driven by intuition and experience-based decision making. With this type of decision-making, problems such as human bias, loss of experienced workers, and the reluctance to use more sophisticated information systems can be a severe problem. With the arrival of the era of data, companies have at their disposal more information than never before, but not many know how to use this resource to its full potential. In this work, we are going to develop a data science pipeline to predict the quality of the sales leads for the EMEA 3D sales department in HP, a project that aims to enhance the transition to a data-driven decision-making organization. 
 

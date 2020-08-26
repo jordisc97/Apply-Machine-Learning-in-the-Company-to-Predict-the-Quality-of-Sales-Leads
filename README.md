@@ -1,5 +1,7 @@
 # Apply Machine Learning in the Company to Predict the Quality of Sales Leads
 
+By Jordi Solé Casaramona.
+
 This repository is part of the thesis of the Master's in Data Science by the University of Barcelona 2019/2020.
 
 This work has been done with the collaboration of the EMEA 3D sales team in HP. The dataset in which the project is based on is currently more than 40,500 leads from the fiscal year 2016 quarter 1 to the fiscal year 2020 quarter 4. On average, every week 257 new leads are entered into the system.

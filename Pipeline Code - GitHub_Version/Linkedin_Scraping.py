@@ -1,6 +1,3 @@
-path = "data"
-filename = "NewData"
-
 import os, random, sys, time
 from selenium import webdriver
 from bs4 import BeautifulSoup
@@ -13,7 +10,7 @@ import time
 from webdriver_manager.chrome import ChromeDriverManager
 
 
-def linkedin_scraping(batch = 150):
+def linkedin_scraping(batch = 150, path = "data", filename = "NewData"):
     # Scrapes the new data from linkedin 
     # and saves it to the Excel Scraping Translated.xlsx
 

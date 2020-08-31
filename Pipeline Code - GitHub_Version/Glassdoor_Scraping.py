@@ -1,6 +1,3 @@
-path = "data"
-filename = "NewData"
-
 import os, random, sys, time
 # from urllib.parse import urlparse
 from selenium import webdriver
@@ -19,7 +16,7 @@ from selenium import webdriver
 #     browser.get('http://google.com/')
 
 
-def glassdoor_scraping(batch=200):
+def glassdoor_scraping(batch=200,path = "data", filename = "NewData"):
 
     ### LEADS MISSING
     ##############################################################
